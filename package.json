@@ -1,0 +1,20 @@
+{
+  "name": "frontend-todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heritage247/frontend-todolist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heritage247/frontend-todolist/issues"
+  },
+  "homepage": "https://github.com/Heritage247/frontend-todolist#readme"
+}
