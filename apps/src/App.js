@@ -1,12 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Container from "./components/Container";
 
-function App() {
-  return (
-    <div className="App">
-      <h1>TODO APP </h1>
-    </div>
-  );
+function App(){
+
+  return(
+    <main>
+      <Container/>
+    </main>
+  )
 }
 
-export default App;
+export default App
