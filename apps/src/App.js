@@ -1,13 +1,15 @@
 import "./App.css";
-import Container from "./components/Container";
+// import Container from "./components/Container";
+import DisplayTask from "./components/DisplayTask";
 
-function App(){
-
-  return(
+function App() {
+  return (
     <main>
-      <Container/>
+      {/* <Container/> */}
+
+      <DisplayTask />
     </main>
-  )
+  );
 }
 
-export default App
+export default App;
